@@ -1,0 +1,112 @@
+body{ 
+	font-family: "Comic Sans MS"; 
+	font-size: 15px; 
+	text-align: center; 
+	color: black; 
+	background-color: yellow; 
+	} 
+
+header{ 
+	font-family: "Comic Sans MS"; 
+	text-align: center; 
+	font-size: 11px; 
+	margin-left: 5px; 
+	margin-right: 5px; 
+	color: black; 
+	background-color: pink; 
+	} 
+
+ul{ 
+	margin: 0px; 
+	padding: 0px; 
+	padding-left:0px; 
+	display: 
+	inline-block; 
+	text-align: left; 
+	} 
+
+ul li{ 
+	list-style-type: disc; 
+	list-style-position: inside; 
+	margin-bottom: 12px; 
+	margin-left: 5px; 
+	} 
+
+a{ 
+	background-color: aqua; 
+	font-size: 15px; 
+	display: inline-block; 
+	width: 90px; 
+	text-decoration: none; 
+	color: black; 
+ } 
+ 
+span{ 
+	font-weight: bold; 
+	} 
+	
+#menu{ 
+	font-family: "Comic Sans MS"; 
+	font-size: 50px; 
+	color: white; 
+	} 
+
+#bio{ 
+	text-align: center; 
+	font-family: "Comic Sans MS"; 
+	padding-top: 17px; 
+	color: black; 
+	background-color: violet; 
+	padding-left: 15px; 
+	padding-right: 15px; 
+	margin-top: 10px; 
+	margin-left: 5px; 
+	margin-right: 5px; 
+	margin-bottom: 15px; 
+	padding-top: 10px; 
+	padding-bottom: 10px; 
+	border-style: outset; 
+	} 
+
+#picture{ 
+	margin-top: 10px; 
+} 
+
+#nav-bar{ 
+	font-family: "Comic Sans MS"; 
+	padding-bottom: 15px; 
+} 
+
+#nav-bar li{ 
+	display: inline; 
+	text-align: center; 
+} 
+
+#resume_name{ 
+	margin-top: 15px; 
+	font-weight: bold; 
+	font-size: 25px;
+} 
+
+
+
+.title{ 
+	color: black; 
+	font-weight: bold; 
+	margin-bottom: 10px; 
+	margin-top: 15px; 
+	} 
+
+.info{ 
+	color: black; 
+	background-color: violet; 
+	padding-left: 15px; 
+	padding-right: 15px; 
+	margin-left: 5px; 
+	margin-right: 5px; 
+	margin-bottom: 15px; 
+	padding-top: 10px; 
+	padding-bottom: 10px; 
+	border-style: outset; 
+	text-align: center;
+}
